@@ -1,2 +1,2 @@
-# Managment-App
-App to make your life much easy
+# Fitness-App
+App to make your Fitness life Style much easy 
